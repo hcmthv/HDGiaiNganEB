@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Van\\DisbursementThroughIB\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {}
+    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {}
   },
   "projects": {
-    "D:\\Van\\DisbursementThroughIB\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {
+    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Van\\DisbursementThroughIB\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
+        "projectUniqueName": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
         "projectName": "GiaiNganAPI.Interfaces",
-        "projectPath": "D:\\Van\\DisbursementThroughIB\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
-        "outputPath": "D:\\Van\\DisbursementThroughIB\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\obj\\",
+        "projectPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\NEMO\\.nuget\\packages\\",
+        "outputPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
