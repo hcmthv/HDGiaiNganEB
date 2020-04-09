@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GiaiNganAPI.Interfaces/1.0.0": {
+        "runtime": {
+          "GiaiNganAPI.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GiaiNganAPI.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

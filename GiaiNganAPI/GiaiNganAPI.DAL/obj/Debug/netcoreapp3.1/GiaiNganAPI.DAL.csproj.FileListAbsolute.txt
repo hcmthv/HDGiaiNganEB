@@ -6,3 +6,7 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.runtimeconfig.json
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.runtimeconfig.dev.json
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.genruntimeconfig.cache
+C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
+C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.csproj.CoreCompileInputs.cache
+C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.dll
+C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
