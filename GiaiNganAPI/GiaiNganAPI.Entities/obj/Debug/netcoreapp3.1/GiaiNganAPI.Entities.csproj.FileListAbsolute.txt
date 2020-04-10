@@ -7,3 +7,11 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Enti
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.AssemblyInfo.cs
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.deps.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.AssemblyInfoInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.AssemblyInfo.cs
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Entities\obj\Debug\netcoreapp3.1\GiaiNganAPI.Entities.csproj.CoreCompileInputs.cache

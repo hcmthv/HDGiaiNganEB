@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {}
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {}
   },
   "projects": {
-    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
+        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
         "projectName": "GiaiNganAPI.Entities",
-        "projectPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
-        "packagesPath": "C:\\Users\\NEMO\\.nuget\\packages\\",
-        "outputPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\obj\\",
+        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
+        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NEMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

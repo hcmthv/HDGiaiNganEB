@@ -1,23 +1,100 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj": {}
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj": {}
   },
   "projects": {
-    "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj": {
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\GiaiNganAPI.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj",
-        "projectName": "GiaiNganAPI.Services",
-        "projectPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj",
-        "packagesPath": "C:\\Users\\NEMO\\.nuget\\packages\\",
-        "outputPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\obj\\",
+        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\GiaiNganAPI.DAL.csproj",
+        "projectName": "GiaiNganAPI.DAL",
+        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\GiaiNganAPI.DAL.csproj",
+        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NEMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
+                "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
+        "projectName": "GiaiNganAPI.Entities",
+        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
+        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,6 +107,130 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
+        "projectName": "GiaiNganAPI.Interfaces",
+        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
+                "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj",
+        "projectName": "GiaiNganAPI.Services",
+        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\GiaiNganAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\GiaiNganAPI.DAL.csproj": {
+                "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.DAL\\GiaiNganAPI.DAL.csproj"
+              },
+              "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj": {
+                "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj"
+              },
+              "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj": {
+                "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

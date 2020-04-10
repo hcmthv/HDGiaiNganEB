@@ -7,3 +7,11 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.AssemblyInfo.cs
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.dll
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\bin\Debug\netcoreapp3.1\GiaiNganAPI.Lib.deps.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\bin\Debug\netcoreapp3.1\GiaiNganAPI.Lib.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\bin\Debug\netcoreapp3.1\GiaiNganAPI.Lib.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.csproj.CoreCompileInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.AssemblyInfoInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.AssemblyInfo.cs
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Lib\obj\Debug\netcoreapp3.1\GiaiNganAPI.Lib.pdb

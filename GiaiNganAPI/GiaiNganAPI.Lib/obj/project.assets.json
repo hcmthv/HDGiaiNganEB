@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\NEMO\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vanth1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
+      "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
       "projectName": "GiaiNganAPI.Lib",
-      "projectPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
-      "packagesPath": "C:\\Users\\NEMO\\.nuget\\packages\\",
-      "outputPath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\obj\\",
+      "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
+      "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
+      "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\NEMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

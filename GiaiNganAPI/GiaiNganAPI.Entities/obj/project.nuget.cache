@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xNIa4m6ihBsfYvUdeKI+pBFE/74m/HetiVYorblmc81vkpDmYEPShKfNjvOErkwGjUKor+MQsZ7N5wcXRruxQw==",
+  "dgSpecHash": "A8PnIFkgEr86SusBzyAZ10l0nElhQQnXmDzAPaQSvfTIMK0IOpUgmE4ms7IVL4Y137W8WUxD+zM758r0fpJJ1Q==",
   "success": true,
-  "projectFilePath": "C:\\DevPrograms\\Projects Working\\hdbank\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Entities\\GiaiNganAPI.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanth1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

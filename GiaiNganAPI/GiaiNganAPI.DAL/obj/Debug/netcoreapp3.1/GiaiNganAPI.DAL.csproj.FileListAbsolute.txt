@@ -10,3 +10,18 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.csproj.CoreCompileInputs.cache
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.dll
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.deps.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.runtimeconfig.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.runtimeconfig.dev.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.csprojAssemblyReference.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.csproj.CoreCompileInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.AssemblyInfoInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.AssemblyInfo.cs
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.genruntimeconfig.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.DAL\obj\Debug\netcoreapp3.1\GiaiNganAPI.DAL.csproj.CopyComplete

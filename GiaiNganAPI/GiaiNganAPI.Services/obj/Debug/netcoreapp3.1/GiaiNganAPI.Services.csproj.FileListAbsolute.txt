@@ -7,3 +7,19 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Serv
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.AssemblyInfo.cs
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.dll
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Services.deps.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Services.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Services.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.DAL.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\bin\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.csprojAssemblyReference.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.csproj.CoreCompileInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.AssemblyInfoInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.AssemblyInfo.cs
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.csproj.CopyComplete
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Services\obj\Debug\netcoreapp3.1\GiaiNganAPI.Services.pdb

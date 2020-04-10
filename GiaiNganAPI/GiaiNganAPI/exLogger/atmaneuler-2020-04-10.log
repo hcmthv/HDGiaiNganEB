@@ -1,0 +1,67 @@
+2020-04-10 15:15:54,231  INFO [6] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/api/values  
+ 2020-04-10 15:15:54,231  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:55720/  0
+ 2020-04-10 15:15:54,427  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 202.0508ms 200 
+ 2020-04-10 15:15:54,929  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller GiaiNganAPI.Controllers.ValuesController (GiaiNganAPI).
+ 2020-04-10 15:15:54,947  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GiaiNganAPI.Controllers.ValuesController.Get (GiaiNganAPI) - Validation state: Valid
+ 2020-04-10 15:16:01,001  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GiaiNganAPI.Controllers.ValuesController.Get (GiaiNganAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 6030.5269ms.
+ 2020-04-10 15:16:01,020  INFO [6] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'System.String[]'.
+ 2020-04-10 15:16:01,095  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GiaiNganAPI.Controllers.ValuesController.Get (GiaiNganAPI) in 6146.9186ms
+ 2020-04-10 15:16:01,138  INFO [6] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 6917.7509ms 200 application/json; charset=utf-8
+ 2020-04-10 15:16:01,167  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/favicon.ico  
+ 2020-04-10 15:16:01,183  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 11.7272ms 404 
+ 2020-04-10 15:16:07,882  INFO [10] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/  
+ 2020-04-10 15:16:07,899  INFO [10] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GiaiNganAPI.Controllers.HomeController (GiaiNganAPI).
+ 2020-04-10 15:16:07,939  INFO [10] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) - Validation state: Valid
+ 2020-04-10 15:16:10,969  INFO [10] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3015.8722ms.
+ 2020-04-10 15:16:11,040  INFO [10] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executing ViewResult, running view Index.
+ 2020-04-10 15:16:11,231  INFO [10] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executed ViewResult - view Index executed in 180.294ms.
+ 2020-04-10 15:16:11,254  INFO [10] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) in 3339.3635ms
+ 2020-04-10 15:16:11,268  INFO [10] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 3388.1223ms 200 text/html; charset=utf-8
+ 2020-04-10 15:23:04,070  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:55720/  0
+ 2020-04-10 15:23:04,070  INFO [6] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/  
+ 2020-04-10 15:23:04,192  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 119.7517ms 200 
+ 2020-04-10 15:23:04,472  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GiaiNganAPI.Controllers.HomeController (GiaiNganAPI).
+ 2020-04-10 15:23:04,494  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) - Validation state: Valid
+ 2020-04-10 15:23:04,523  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8095ms.
+ 2020-04-10 15:23:04,570  INFO [6] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executing ViewResult, running view Index.
+ 2020-04-10 15:23:04,618  INFO [6] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executed ViewResult - view Index executed in 67.2046ms.
+ 2020-04-10 15:23:04,648  INFO [6] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) in 153.3097ms
+ 2020-04-10 15:23:04,681  INFO [6] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 618.2003ms 200 text/html; charset=utf-8
+ 2020-04-10 15:23:04,701  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/favicon.ico  
+ 2020-04-10 15:23:04,718  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 15.4925ms 404 
+ 2020-04-10 15:25:35,322  INFO [11] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/  
+ 2020-04-10 15:25:35,322  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:55720/  0
+ 2020-04-10 15:25:35,417  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 92.5854ms 200 
+ 2020-04-10 15:25:35,683  INFO [11] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GiaiNganAPI.Controllers.HomeController (GiaiNganAPI).
+ 2020-04-10 15:25:35,704  INFO [11] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) - Validation state: Valid
+ 2020-04-10 15:25:35,718  INFO [11] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9302ms.
+ 2020-04-10 15:25:35,758  INFO [11] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executing ViewResult, running view Index.
+ 2020-04-10 15:25:35,815  INFO [11] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executed ViewResult - view Index executed in 73.5686ms.
+ 2020-04-10 15:25:35,876  INFO [11] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) in 171.5987ms
+ 2020-04-10 15:25:35,920  INFO [11] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 599.9958ms 200 text/html; charset=utf-8
+ 2020-04-10 15:25:35,946  INFO [10] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44367/favicon.ico  
+ 2020-04-10 15:25:35,965  INFO [10] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 25.123ms 404 
+ 2020-04-10 15:28:58,575 DEBUG [6] HttpsConnectionAdapter.? [?] - MESSAGE: Failed to authenticate HTTPS connection.
+ System.IO.IOException: Authentication failed because the remote party has closed the transport stream.
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Net.Security.SslStream.BeginAuthenticateAsServer(SslServerAuthenticationOptions sslServerAuthenticationOptions, CancellationToken cancellationToken, AsyncCallback asyncCallback, Object asyncState)
+   at System.Net.Security.SslStream.<>c.<AuthenticateAsServerAsync>b__51_0(SslServerAuthenticationOptions arg1, CancellationToken arg2, AsyncCallback callback, Object state)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl[TArg1,TArg2](Func`5 beginMethod, Func`2 endFunction, Action`1 endAction, TArg1 arg1, TArg2 arg2, Object state, TaskCreationOptions creationOptions)
+   at System.Threading.Tasks.TaskFactory.FromAsync[TArg1,TArg2](Func`5 beginMethod, Action`1 endMethod, TArg1 arg1, TArg2 arg2, Object state, TaskCreationOptions creationOptions)
+   at System.Threading.Tasks.TaskFactory.FromAsync[TArg1,TArg2](Func`5 beginMethod, Action`1 endMethod, TArg1 arg1, TArg2 arg2, Object state)
+   at System.Net.Security.SslStream.AuthenticateAsServerAsync(SslServerAuthenticationOptions sslServerAuthenticationOptions, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionAdapter.InnerOnConnectionAsync(ConnectionAdapterContext context)
+2020-04-10 15:29:00,053  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET https://localhost:5001/  
+ 2020-04-10 15:29:00,506  INFO [7] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GiaiNganAPI.Controllers.HomeController (GiaiNganAPI).
+ 2020-04-10 15:29:00,534  INFO [7] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) - Validation state: Valid
+ 2020-04-10 15:29:00,547  INFO [7] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.9305ms.
+ 2020-04-10 15:29:00,609  INFO [7] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executing ViewResult, running view Index.
+ 2020-04-10 15:29:00,689  INFO [7] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.? [?] - MESSAGE: Executed ViewResult - view Index executed in 121.7744ms.
+ 2020-04-10 15:29:00,744  INFO [7] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GiaiNganAPI.Controllers.HomeController.Index (GiaiNganAPI) in 210.1156ms
+ 2020-04-10 15:29:00,769  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 732.0215ms 200 text/html; charset=utf-8
+ 2020-04-10 15:29:00,789  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+ 2020-04-10 15:29:00,803  INFO [7] Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 14.0143ms 404 
+ 

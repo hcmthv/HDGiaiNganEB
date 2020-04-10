@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GiaiNganAPI.DAL\GiaiNganAPI.DAL.csproj" />
+    <ProjectReference Include="..\GiaiNganAPI.Entities\GiaiNganAPI.Entities.csproj" />
+    <ProjectReference Include="..\GiaiNganAPI.Interfaces\GiaiNganAPI.Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

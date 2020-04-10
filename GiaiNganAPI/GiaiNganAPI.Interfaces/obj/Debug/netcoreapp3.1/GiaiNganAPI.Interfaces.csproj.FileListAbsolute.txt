@@ -7,3 +7,15 @@ C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Inte
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.AssemblyInfo.cs
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.dll
 C:\DevPrograms\Projects Working\hdbank\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\bin\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.deps.json
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\bin\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\bin\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\bin\Debug\netcoreapp3.1\GiaiNganAPI.Entities.pdb
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.csprojAssemblyReference.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.csproj.CoreCompileInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.AssemblyInfoInputs.cache
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.AssemblyInfo.cs
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.csproj.CopyComplete
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.dll
+D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI.Interfaces\obj\Debug\netcoreapp3.1\GiaiNganAPI.Interfaces.pdb

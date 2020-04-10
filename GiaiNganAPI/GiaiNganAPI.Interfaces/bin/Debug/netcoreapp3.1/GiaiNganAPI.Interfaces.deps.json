@@ -7,14 +7,45 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "GiaiNganAPI.Interfaces/1.0.0": {
+        "dependencies": {
+          "GiaiNganAPI.Entities": "1.0.0"
+        },
         "runtime": {
           "GiaiNganAPI.Interfaces.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "GiaiNganAPI.Entities/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "GiaiNganAPI.Entities.dll": {}
         }
       }
     }
   },
   "libraries": {
     "GiaiNganAPI.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "GiaiNganAPI.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
