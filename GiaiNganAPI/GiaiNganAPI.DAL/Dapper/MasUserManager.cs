@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Microsoft.Data.SqlClient;
+using System.Data.SqlClient;
 using System.Linq;
 
 using GiaiNganAPI.DAL.Core;
@@ -38,7 +38,7 @@ namespace GiaiNganAPI.DAL.Dapper
         {
             try
             {
-                var l_sql = "select * from vw_getuserdetails where password =  dbo.HmacSha256(CONCAT(@p_password,password_salt)) and user_nm = @p_usernm";
+                var l_sql = "select * from vw_getuserdetails where password =  dbo.HmacSha256(CAST(CONCAT(@p_password,password_salt) as VARBINARY(MAX))) and user_nm = @p_usernm";
                 //MasUserModel lMasUser = new MasUserModel();
                 using (var conn = openConnection())
                 {
@@ -58,7 +58,7 @@ namespace GiaiNganAPI.DAL.Dapper
         {
             try
             {
-                var l_sql = "select * from vw_getuserdetails where password =  dbo.HmacSha256(CONCAT(@p_password,password_salt))";
+                var l_sql = "select * from vw_getuserdetails where password =  dbo.HmacSha256(CAST(CONCAT(@p_password,password_salt) as VARBINARY(MAX)))";
                 //MasUserModel lMasUser = new MasUserModel();
                 using (var conn = openConnection())
                 {
@@ -76,10 +76,11 @@ namespace GiaiNganAPI.DAL.Dapper
 
         public List<MasUserRequestModel> CheckLogin(LoginModel pUser)
         {
+            // select dbo.HmacSha256(CAST(CONCAT('sa',password_salt) as VARBINARY(MAX))) from vw_getuserdetails;
             List<MasUserRequestModel> lUser = new List<MasUserRequestModel>();
             try
             {
-                var lSql = "select * from vw_getuserdetails where user_nm = @p_username and password = dbo.HmacSha256(CONCAT(@p_password,password_salt))";
+                var lSql = "select * from vw_getuserdetails where user_nm = @p_username and password = dbo.HmacSha256(CAST(CONCAT(@p_password,password_salt) as VARBINARY(MAX)))";
                 using (var conn = openConnection())
                 {
                     string username = pUser.Username;

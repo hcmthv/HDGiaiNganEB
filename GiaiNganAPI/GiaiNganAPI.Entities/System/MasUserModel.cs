@@ -11,7 +11,7 @@ namespace GiaiNganAPI.Entities.System
         [Required]
         [StringLength(50)]
         public string USER_NM { get; set; }
-        public string PASSWORD { get; set; }
+        public byte[] PASSWORD { get; set; }
         public string PASSWORD_SALT { get; set; }
 
         public string NEW_PASSWORD { get; set; }

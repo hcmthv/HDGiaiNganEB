@@ -1,31 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj": {}
+    "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj": {}
   },
   "projects": {
-    "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj": {
+    "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
+        "projectUniqueName": "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
         "projectName": "GiaiNganAPI.Lib",
-        "projectPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
-        "packagesPath": "C:\\Users\\vanth1\\.nuget\\packages\\",
-        "outputPath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Lib\\obj\\",
+        "projectPath": "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Lib\\GiaiNganAPI.Lib.csproj",
+        "packagesPath": "C:\\Users\\NEMO\\.nuget\\packages\\",
+        "outputPath": "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Lib\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vanth1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -36,7 +39,19 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -47,11 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }

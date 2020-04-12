@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "eKKxypWjqpIOeD0ZZljeEJ1mlL28PH66O+EaU4kapVh7UYcw/kQCdpks4IdVA2+J/l9+i5MNUtFHt/+G7g8bNQ==",
+  "dgSpecHash": "6TNqBc7g9I5WdurI39FHTVmcekXi1PlVU26oNMzhcpCaJrZjMwk3Pgkj0KnlQVUtbB45upVUb8Yts6cxOsRdVw==",
   "success": true,
-  "projectFilePath": "D:\\Van\\HDGiaiNganEB\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
+  "projectFilePath": "C:\\DevPrograms\\Projects Working\\hdbank\\GiaiNganAPI\\GiaiNganAPI.Interfaces\\GiaiNganAPI.Interfaces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vanth1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\NEMO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

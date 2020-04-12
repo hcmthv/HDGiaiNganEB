@@ -1,28 +1,57 @@
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\appsettings.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.deps.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.dev.json
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.dll
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.pdb
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cs
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfoInputs.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfo.cs
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.dll
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.pdb
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.genruntimeconfig.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csproj.CoreCompileInputs.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Views.dll
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Views.pdb
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.input.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.output.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorCoreGenerate.cache
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cs
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.Views.pdb
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csproj.CopyComplete
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\log4net.config
-D:\Van\HDGiaiNganEB\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csprojAssemblyReference.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.deps.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.dev.json
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csprojAssemblyReference.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csproj.CoreCompileInputs.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cs
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfoInputs.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfo.cs
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.genruntimeconfig.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.deps.json
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.json
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.runtimeconfig.dev.json
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.dll
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.pdb
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csprojAssemblyReference.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csproj.CoreCompileInputs.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorAssemblyInfo.cs
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfoInputs.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.AssemblyInfo.cs
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.input.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.output.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorCoreGenerate.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cache
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cs
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.dll
+D:\devprogrames\HDBANK\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\log4net.config
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Views.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Views.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.DAL.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Entities.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Interfaces.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaNganAPI.Services.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Entities.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaNganAPI.Services.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.DAL.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Interfaces.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.input.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.TagHelpers.output.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorCoreGenerate.cache
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.RazorTargetAssemblyInfo.cs
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.Views.pdb
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\obj\Debug\netcoreapp2.1\GiaiNganAPI.csproj.CopyComplete
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Lib.dll
+C:\DevPrograms\Projects Working\hdbank\GiaiNganAPI\GiaiNganAPI\bin\Debug\netcoreapp2.1\GiaiNganAPI.Lib.pdb

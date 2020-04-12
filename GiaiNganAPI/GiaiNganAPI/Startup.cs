@@ -20,6 +20,10 @@ using System.Text;
 
 
 using GiaiNganAPI.Attribute;
+using GiaiNganAPI.Interfaces.System;
+using GiaiNganAPI.Services.System;
+using GiaiNganAPI.Lib;
+
 namespace GiaiNganAPI
 {
     public class Startup
@@ -27,8 +31,9 @@ namespace GiaiNganAPI
         public Startup(IHostingEnvironment hostEnvironment, IConfiguration configuration)
         {
             HostingEnvironment = hostEnvironment;
-            Configuration = configuration;
+            Configuration = configuration;           
         }
+
 
         private IHostingEnvironment HostingEnvironment { get; }
         public IConfiguration Configuration { get; }
@@ -78,12 +83,18 @@ namespace GiaiNganAPI
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddSingleton(provider => Configuration);
+            /* Get sql Connection.
+            string conn = Configuration.GetConnectionString("HDConnection");
+            services.Configure<AppSettings>(Configuration.GetSection("ConnectionStrings")); */
+
+            // Services
+            services.AddTransient<IMasUserService, MasUserService>();
 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
-        {            
+        {
             loggerFactory.AddLog4Net();
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
@@ -109,19 +120,7 @@ namespace GiaiNganAPI
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
-
-
-            /*if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
-            else
-            {
-                app.UseHsts();
-            }
-
-            app.UseHttpsRedirection();
-            app.UseMvc();*/
+                       
         }
     }
 }

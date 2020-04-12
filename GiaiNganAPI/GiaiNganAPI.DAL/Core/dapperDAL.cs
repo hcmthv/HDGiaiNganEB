@@ -1,23 +1,22 @@
 ﻿using System;
-using Microsoft.Data.SqlClient;
+using System.Data.SqlClient;
 
 namespace GiaiNganAPI.DAL.Core
-{
-    public abstract class dapperDAL
+{ 
+    public abstract class dapperDAL 
     {
         protected SqlConnection myConn;
         protected SqlCommand myCommand;
         protected SqlParameter myPar;
         protected SqlTransaction myTran;
+        protected string connectionString = string.Empty;
 
-        protected string connectionString =
-            @"SERVER=52.78.132.235\mssqlserver2017, 1851;DATABASE=atmaneuler;UID=sa;PWD=Atmaneuler@0197;";
-             //@"SERVER=192.168.0.210\mssqlserver2017, 53883;DATABASE=atmaneuler;UID=sa;PWD=sa123456;";
-
-        protected void initConnect()
+        protected void initConnect(string dbType = null)
         {
             try
             {
+                ConfigSettings.Instance.AppSettings(dbType);
+                connectionString = ConfigSettings.connectString;
                 myConn = new SqlConnection(connectionString);
                 myCommand = new SqlCommand("", myConn);
                 myCommand.CommandText = "set names utf8";
@@ -29,9 +28,9 @@ namespace GiaiNganAPI.DAL.Core
             }
         }
 
-        protected void connection()
+        protected void connection(string dbType = null)
         {
-            initConnect();
+            initConnect(dbType);
         }
 
         protected SqlConnection openConnection()
@@ -42,3 +41,4 @@ namespace GiaiNganAPI.DAL.Core
 
     }
 }
+
